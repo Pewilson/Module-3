@@ -1,0 +1,53 @@
+/*COLORS
+
+Burgundy #800020
+Carmine	 #D70040
+Blood Red	#880808
+Burnt Sienna	#E97451
+Pastel Red	#FAA0A0
+
+*/
+
+/*GLOBAL STYLES ----------------------------------------------*/
+body{
+    background-color:rgb(217, 217, 217);
+}
+a{
+    color: crimson;
+}
+img{
+    max-width: 500px;
+}
+.btn{
+    background-color: black;
+    border-radius: 10px;
+
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+/*HOME ----------------------------------------------*/
+
+.home{
+    background: url(../placeholder-images/bg-home-office-bookshelf.jpg) no-repeat;
+    background-size:cover;
+}
+.home .content-wrapper{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+/* FOOTER ----------------------------------------------*/
+footer{
+    background-color: darkred;
+    color:aliceblue;
+    padding: 10px;
+}
+
+
+/* RESUME ----------------------------------------------*/
+
+
